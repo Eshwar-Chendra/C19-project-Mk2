@@ -1,2 +1,2 @@
-# C19-project-Mk2
-Just a project
+# p5.play-boilerplate
+Boiler plate for p5.play
